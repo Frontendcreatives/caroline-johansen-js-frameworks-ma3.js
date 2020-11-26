@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
+import "../../sass/style.scss";
 
 import {
     BrowserRouter as Router,

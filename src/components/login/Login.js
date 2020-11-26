@@ -1,6 +1,6 @@
 import React from "react";
 import Heading from "../layout/Heading";
-import LoginForm from "../layout/LoginForm";
+import LoginForm from "./LoginForm";
 import "../../sass/style.scss";
 
 export function Login() {

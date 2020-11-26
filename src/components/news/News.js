@@ -1,6 +1,6 @@
 import React from "react";
 import Heading from "../layout/Heading";
-import NewsList from "../layout/NewsList";
+import NewsList from "./NewsList";
 import "../../sass/style.scss";
 
 export function News() {

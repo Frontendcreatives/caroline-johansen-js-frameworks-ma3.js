@@ -1,6 +1,6 @@
 import React from "react";
 import Heading from "../layout/Heading";
-import HomeContent from "../layout/HomeContent";
+import HomeContent from "./HomeContent";
 import "../../sass/style.scss";
 
 export function Home() {
